@@ -6,4 +6,5 @@
     "editor.formatOnSave": false,
     "python.terminal.activateEnvironment": false,
     "git.ignoreLimitWarning": true,
+    "cmake.sourceDirectory": "C:/Users/hugoz/OneDrive/Desktop/incide/app-boilerplate/fuzzing",
 }
